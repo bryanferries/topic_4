@@ -73,7 +73,7 @@ print(f'One of ITEC 2905s favorite sports is {favorite_sport}')
 
 ## 13. Favorite Programming Language
 
-favorite_programming_language = ''
+favorite_programming_language = 'Binary'
 print(f'One of ITEC 2905s favorite programming languages is {favorite_programming_language}')
 
 
